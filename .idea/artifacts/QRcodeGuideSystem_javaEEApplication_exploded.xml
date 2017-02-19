@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="QRcodeGuideSystem:javaEEApplication exploded">
+    <output-path>$PROJECT_DIR$/classes/artifacts/QRcodeGuideSystem_javaEEApplication_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="QRcodeGuideSystem/javaeeApplication/javaEEApplication" />
+      <element id="directory" name="lib">
+        <element id="archive" name="QRcodeGuideSystem.jar">
+          <element id="module-output" name="QRcodeGuideSystem" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
